@@ -1,0 +1,42 @@
+October 4, 2022, 1:35 pm
+----------- DATA -------------
+Array
+(
+    [name] => test
+    [phone] => 6576575676
+    [offerId] => edd9139a-943f-4da3-9dc7-9c63e4294b2d
+    [domain] => http://188.225.60.125/lander/crystalix-caps-in-land-domonetka/lemon.php
+    [ip] => 45.154.89.245
+    [utm_campaign] => domonetka
+    [utm_content] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_term] => 
+    [clickid] => {subid}
+    [fbpxl] => 
+)
+
+----------- RESPONSE ---------
+{"result":"ok","localClickId":"f4be5989-7c3a-496d-96ab-d344cb63f1b7"}
+----------- END --------------
+October 4, 2022, 1:37 pm
+----------- DATA -------------
+Array
+(
+    [name] => test
+    [phone] => 546546534
+    [offerId] => edd9139a-943f-4da3-9dc7-9c63e4294b2d
+    [domain] => http://188.225.60.125/lander/crystalix-caps-in-land-domonetka/lemon.php
+    [ip] => 45.154.89.245
+    [utm_campaign] => domonetka
+    [utm_content] => 
+    [utm_medium] => 
+    [utm_source] => 
+    [utm_term] => 
+    [clickid] => {subid}
+    [fbpxl] => 
+)
+
+----------- RESPONSE ---------
+{"result":"ok","localClickId":"317085b4-0fec-49aa-870e-687421507224"}
+----------- END --------------
